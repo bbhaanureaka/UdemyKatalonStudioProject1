@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GitTC2_NewQABranch</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>413f4a9d-d813-43a5-8d61-f842d6fc2a07</testCaseGuid>
+</TestCaseEntity>

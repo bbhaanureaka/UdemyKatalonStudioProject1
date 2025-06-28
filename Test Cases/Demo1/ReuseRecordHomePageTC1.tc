@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReuseRecordHomePageTC1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b51be373-8fe7-491c-9c1d-885d8f886a0d</testCaseGuid>
+</TestCaseEntity>

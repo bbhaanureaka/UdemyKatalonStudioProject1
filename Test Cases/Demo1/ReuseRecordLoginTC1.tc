@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReuseRecordLoginTC1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94837cbe-d46d-4aa3-a01b-fa6e9e7945dd</testCaseGuid>
+</TestCaseEntity>

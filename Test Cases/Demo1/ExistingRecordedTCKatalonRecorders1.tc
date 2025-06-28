@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Along with the steps in the already recorded test case add few more steps using Katalon Recorder from active Primary Browser.</description>
+   <name>ExistingRecordedTCKatalonRecorders1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04ce991b-f468-4e9a-94d0-612f7ffc6116</testCaseGuid>
+</TestCaseEntity>

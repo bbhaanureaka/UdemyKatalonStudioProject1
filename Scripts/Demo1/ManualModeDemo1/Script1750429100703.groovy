@@ -31,5 +31,5 @@ WebUI.verifyTextPresent('Welcome', false)
 
 WebUI.closeBrowser()
 
-WebUI.verifyTextPresent('Dsahboard', false)
+WebUI.verifyTextPresent('Dashboard', false)
 
